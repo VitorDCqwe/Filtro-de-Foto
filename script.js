@@ -39,7 +39,7 @@ function gotPoses(results) {
 function draw() {
     background(0);
     image(video, 0, 0, width, height);
-    image(catNose, noseX - 200, noseY - 140, 400, 400);
+    image(mustache, noseX - 200, noseY - 140, 400, 400);
 }
 
 function takeSnapshot() {

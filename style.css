@@ -32,7 +32,7 @@ h3 {
 canvas {
     display: block;
     margin: 60px auto;
-    animation-name: exemple;
+    animation-name: example;
     animation-duration: 4s;
     animation-iteration-count: infinite;
     border-radius: 10px;
